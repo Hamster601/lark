@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-
-source ./../cfg/services.cfg
+pwd
+source ./cfg/services.cfg
 
 for ((i=1; i<=2; i++))
 do
